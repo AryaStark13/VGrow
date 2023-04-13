@@ -1,12 +1,15 @@
-#TRI-NIT:
+# TRI-NIT:
 This is our project made for the TRI-NIT 36 hour Hackathon 2023.
 
 # We have four branches :
-Website Code :https://github.com/Jay4Codes/TRINIT_ENEMIESOFSYNTAX_ML
-<br />Frontend Code : https://github.com/Jay4Codes/TRINIT_ENEMIESOFSYNTAX_ML/tree/frontend
-<br />Backend Code : https://github.com/Jay4Codes/TRINIT_ENEMIESOFSYNTAX_ML/tree/backend
-<br />ML models Code : https://github.com/Jay4Codes/TRINIT_ENEMIESOFSYNTAX_ML/tree/model
+Website Code: https://github.com/AryaStark13/VGrow
+<br />Frontend Code: https://github.com/AryaStark13/VGrow/tree/frontend
+<br />Backend Code: https://github.com/AryaStark13/VGrow/tree/backend
+<br />ML Machine Learning Models Code: https://github.com/AryaStark13/VGrow/tree/model
 
+# Awards: 
+Our team name is **Enemies of Syntax**
+!(Notable Mention at TRI-NIT Hackathon 2023 consisting of over 4,000 participants pan-India.)[https://lh3.googleusercontent.com/fife/APg5EOYYGsfnphdNDXrmn-t8woT6UUbMlbQkdHcm51ZoqYqyd0BvqR2f8B6NkX0SpVlOatoHDFlAjp77ZkaTRXkbzcxs0tf5Siya_8N4z_YIqMHEBufQ0vyiGvp4o_8x-jzYVj_E-MYdIxmkPpl8OGof1grH1uZbVp-vLIji6knAKtFet--tQh2bR9pobcHmgBXpDXzuwFt84fYeqZkk4nbuuOsNaFHLmab9ckxpVX9GfXkRMx8joYCs-bVrDRLc-D1qPmwWrsh1L1IT9jEee99Kwav5vjv-C_8h8aEBJU0pVRxYacGEbcLKwBI3dy2Xq2W5_jDAaBOc1G-JGzchoIycrwmXVOyKDbhbMtHGq-yKjCOQyiWHlyVgG_dSQU2_cA9-ttImV_-90gz7O_nbBXLVsuiz1s9M4Az37AEnJsO2kNkW4xn-v_A-4cA_kWbP_sxxWxsO1JhFg7AB4rXbnShNP3aij8IMcHcdJydRuwNxIcwgHUwDYBlclezHM62BspzCZpBT4POd3jq3taSjBtCaMLsHcc7N89sgiW0j9liDhAbRUDkwdGmRiGiEA0MzNvRXVr1OdYKlNjtw-CmEYTafuxj-KQW9nGIBHbcUL8ZX0vpXbdFLuWG-1i6RprGCHYCtMMTFB4j7a8I7X3JaimdMnTkn_IjntIDYlNpeATKnPOlmo_v9LNzrO2yXO5esqfenM-P1T6vajevkffI73hg9VWUt1OuCIuIgDWk_Z1k2WfUvoGW-dyNmI8amf2Nds3wncbJX87PQABmaKTXzGEGrqsvb6Ag1ydbM7r9CcHwLL0gM0jATsTgTITF7Sxgx1EOkZp__ITFo15LGOYjRTXbyVxXVHO-knH5yDnZ7ISAFNR1V6fnddT2hROvK_F4hZvUnyHz7TEMjQ-BrZWCZKH3-mVZ7ir4rAIVKSCs6Y_nNXTRbUhvlvRkvGk6ZxB8ijrvsTmmrF6a8VDxjnqXvvrSfV8VqxdgZvrIrRVQUjRHUIXcHkDDcOXInalfKT-klAw3GCitxBsWbt1wTo9KXER2bImx_a5m9WppvPbyk137pXfqGr_VeSQ8wvoAFvAgb8sL1fe_zMu9SGsGxMQWgeOrHbwAw3e5NDyhxipTNzCtCqXFAgcDl6t7WLZ1ZKsIPFtGgafTXhKch5hC4wDe6yT_OISWkn3kFwKlRh69et9BnxtmxEPPDRJJBhVrjUcWBlXqEGl-JYoKY-q_aczxW7_kZz4nhI7oXr5XZ8SArUeyyUoP84voTJz2xnf73j4MrdVCu5bkZZICHkqoyQ-TQwSouRigSqINdjb3lez7RLvu0HCb_yHbMZOhMBzMgB4u7hd0AKJAo6QprtHNUHhpMtaTbsljzWfrGw3QvQnZTmmAG3H6lPylYZsZ4WshvrOD03UZxdK5nIjoq9NvyJSDp5UokySSSX7NFIMSQjZYeDTtYvVQIAaV6Tnaox3ufk-uzsECnaBQcixAlErNpt8o0XbFHrFm_JTplLLfhRB2Hrbsjoycx-I_92V9fudPLam1LP_6bD6RKDoXEaHXbf_wpa6PRJOcX7UUkRxPrYyc2Rc9xkHpI3VbOknqj0UPkCw7nM-p2f-uNaenUyE2Qs1STQ6Hd6_P5uw-MjdVMe4ggriF9gZUhT8X2X7DT3Lz1o38PvIju6sCng5zM4gf03OUeFLG4PLMlmZKUA1MACN3uWU8CrUrvHsI7=w1920-h932]
 
 # VGrow
 
